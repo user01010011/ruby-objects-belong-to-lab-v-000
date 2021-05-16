@@ -5,4 +5,4 @@ class Author
     @name = name
     @post = post
   end
-end 
+end
